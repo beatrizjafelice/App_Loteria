@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loteria</string>
+    <string name="total_numeros">Total de números disponíveis</string>
+    <string name="dezenas">Número de dezenas</string>
+    <string name="calcular">Calcular</string>
+    <string name="sortear">Sortear</string>
+    <string name="novo_sorteio">Novo sorteio</string>
+</resources>
